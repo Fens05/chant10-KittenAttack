@@ -1,9 +1,9 @@
-const  manager = require('../lib/manager.js');
+const manager = require('../lib/manager.js');
 
-test ('manager questions', () => {
-    expect(manager)
-    // expect(manager.name).toBe('');
-    // expect(manager.email).toBe('');
-    // expect(function newteamMember(questions)toEqual())
-}
-);
+// jest.mock('../lib/manager.js')
+test('managerquestions', () => {
+    expect(manager.name).tobe();
+    expect(manager.officenumber).tobe();
+    expect(manager.department).tobe();
+
+});
