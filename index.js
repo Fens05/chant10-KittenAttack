@@ -93,6 +93,5 @@ function init() {
     newManager();
 }
 
-init();
-Terms
-Privacy
+init()
+
