@@ -19,7 +19,7 @@ const generatePage = (employee, manager, egenieer, intern) =>{
     
     </html>           
     `;
-};
+   
     
 
     

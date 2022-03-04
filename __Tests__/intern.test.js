@@ -1,6 +1,6 @@
-const intern = require('../lib/intern.js');
+const intern = require('../lib/Intern.js');
 
 test ('intern questions', () => {
-    expect (intern)
+    expect ( Intern )
 }
 );
