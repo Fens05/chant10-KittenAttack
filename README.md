@@ -1,10 +1,10 @@
-My Team Employee Managment
-#package.json
-#node modules 
+## My Team Employee Managment
+# package.json
+# node modules 
 
-vidio recording ?"https://youtu.be/gn2_ws1eKyA"
-video recording ?"https://youtu.be/S1uRC6GJ-NQ"
-# 10 Object-Oriented Programming: Team Profile Generator
+vidio recording ?"https://youtu.be/RS8Ry-qluDQ
+https://app.screencastify.com/videos#:~:text=Untitled-,challenge,-10%20OOP
+
 
 Your challenge is to build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, you’ll also write unit tests for each part of your code and ensure that it passes all of them.
 
@@ -12,7 +12,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 **Note**: There is no starter code for this assignment.
 
-##USER STORY
+## USER STORY
 
 
 ```md

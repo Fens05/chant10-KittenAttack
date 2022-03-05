@@ -18,15 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Feortegas/employee-profile-generator.git"
+    "url": "git+https://github.com/Fens05/chant10-KittenAttack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Feortegas/employee-profile-generator/issues"
+    "url": "https://github.com/Fens05/chant10-KittenAttack/issues"
   },
-  "homepage": "https://github.com/Fens05/chant10-KittenAttack/README"
+  "homepage": "https://github.com/Fens05/chant10-KittenAttack"
 }
-
-
