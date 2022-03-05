@@ -70,9 +70,9 @@ const newIntern = async () => {
 };
 
 
-const generatePage = require('./src/template.js');
+const generatePage = require('./src/page-template.js');
 const { writeFile } = require('./utils/site.js');
-const { async } = require('rxjs');
+// const { async } = require('rxjs');
 const inquirer = require('inquirer');
 const fs = require('fs');
 
