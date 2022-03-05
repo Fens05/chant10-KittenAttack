@@ -1,8 +1,9 @@
-Team Build 
+My Team Employee Managment
 #package.json
-node modules 
+#node modules 
 
-vidio recording ?"https://watch.screencastify.com/v/xS5c6q0ZlL89tQZqlMJb
+vidio recording ?"https://youtu.be/gn2_ws1eKyA"
+video recording ?"https://youtu.be/S1uRC6GJ-NQ"
 # 10 Object-Oriented Programming: Team Profile Generator
 
 Your challenge is to build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, you’ll also write unit tests for each part of your code and ensure that it passes all of them.
@@ -48,7 +49,7 @@ The following image shows the generated HTML’s appearance and functionality. T
 
 ![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
 
-
+(./Users/kristameyer/Desktop/chant10-KittenAttack/src/assets/team pic.png)
 ## Getting Started
 
 This Challenge will combine many of the skills you’ve learned over the first ten weeks of this course. To help you get started, we’ve provided some guidelines in addition to the User Story and Acceptance Criteria.
@@ -75,6 +76,11 @@ It is recommended that you start with a directory structure that looks like this
 ├── index.js               // runs the application
 └── package.json
 ```
+
+
+
+
+
 
 **Important**: Make sure that you remove `dist` from the `.gitignore` file so that Git will track this folder and include it when you push up to your application's repository.
 
